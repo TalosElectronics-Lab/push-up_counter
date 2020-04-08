@@ -1,3 +1,8 @@
+/*
+ * taloselectronics.com
+ * Rafael Lozano Rolon
+ * soporte@taloelectronics.com
+ */
 #include <LiquidCrystal_I2C.h>
 
 #define Btn_set A0
